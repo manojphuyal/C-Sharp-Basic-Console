@@ -5,3 +5,5 @@ D:\hetauda city collage\Dot Net Projects\HCT_ConsoleApp\HCT_ConsoleApp\obj\Debug
 D:\hetauda city collage\Dot Net Projects\HCT_ConsoleApp\HCT_ConsoleApp\obj\Debug\HCT_ConsoleApp.csproj.CoreCompileInputs.cache
 D:\hetauda city collage\Dot Net Projects\HCT_ConsoleApp\HCT_ConsoleApp\obj\Debug\HCT_ConsoleApp.exe
 D:\hetauda city collage\Dot Net Projects\HCT_ConsoleApp\HCT_ConsoleApp\obj\Debug\HCT_ConsoleApp.pdb
+D:\hetauda city collage\Dot Net Projects\HCT_ConsoleApp\HCT_ConsoleApp\bin\Debug\Admistration_Console.dll
+D:\hetauda city collage\Dot Net Projects\HCT_ConsoleApp\HCT_ConsoleApp\obj\Debug\HCT_ConsoleApp.csproj.CopyComplete

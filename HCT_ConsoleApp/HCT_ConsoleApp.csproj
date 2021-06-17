@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Admistration_Console">
+      <HintPath>..\Admistration_Console\bin\Debug\net5.0\ref\Admistration_Console.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -45,6 +48,20 @@
   <ItemGroup>
     <Compile Include="Practice1\ClassAndMethodsExample1.cs" />
     <Compile Include="Practice1\DataTypeConversion.cs" />
+    <Compile Include="Practice1\Variables.cs" />
+    <Compile Include="Practice2\OOP\AbstractionExample\AbstractionExample.cs" />
+    <Compile Include="Practice2\OOP\ClassExample\ClassExample.cs" />
+    <Compile Include="Practice2\OOP\EncaptulationExample\AccountGetAndSetMethod.cs" />
+    <Compile Include="Practice2\OOP\EncaptulationExample\AccountGetAndSetProperties.cs" />
+    <Compile Include="Practice2\OOP\InheritanceExample\HierarchicalInheritanceExample.cs" />
+    <Compile Include="Practice2\OOP\InheritanceExample\MultiLevelInheritanceExample.cs" />
+    <Compile Include="Practice2\OOP\InheritanceExample\SingleInheritanceExample.cs" />
+    <Compile Include="Practice2\OOP\ObjectExample\ConstructorExample\DefaultConstructorExample.cs" />
+    <Compile Include="Practice2\OOP\ObjectExample\ConstructorExample\ParameterizeConstructorExample.cs" />
+    <Compile Include="Practice2\OOP\ObjectExample\ConstructorExample\UserDefineConstructorExample.cs" />
+    <Compile Include="Practice2\OOP\ObjectExample\ObjectExample.cs" />
+    <Compile Include="Practice2\OOP\PolymorphismExample\OverloadingExample.cs" />
+    <Compile Include="Practice2\OOP\PolymorphismExample\OverridingExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

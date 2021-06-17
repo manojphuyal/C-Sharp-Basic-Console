@@ -1,43 +1,39 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+using Admistration_Console.AdminClass;
+using HCT_ConsoleApp.Practice1;
+using System;
 
 namespace HCT_ConsoleApp
 {
     class Program
     {
-         int val1;
-         int val2;
-         int result;
-         void Add()
+        AdminClass obj = new AdminClass();
+        void Add()
         {
-            result = val1 + val2;
-            Console.WriteLine(result);
+            obj.result = obj.val1 + obj.val2;
+            Console.WriteLine(obj.result);
             Console.ReadLine();
         }
-         void Sub()
+        void Sub()
         {
-            result = val1 - val2;
-            Console.WriteLine(result);
+            obj.result = obj.val1 - obj.val2;
+            Console.WriteLine(obj.result);
             Console.ReadLine();
         }
 
         static void Main()
         {
             Program calc = new Program();
-            calc.val1 = 20;
-            calc.val2 = 10;
+            calc.obj.val1 = 20;
+            calc.obj.val2 = 10;
             calc.Add();
             calc.Sub();
-
         }
     }
 }
-
 
 //[ClassName] [objectName] [=] [new] [ClassName()]
 
 //Function/Method Syntax
 //[AccessModifier] [ReturnType] [FunctionName] [parenthesis--(arguments)]
+
