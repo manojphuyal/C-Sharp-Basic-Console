@@ -49,6 +49,8 @@
     <Compile Include="Practice1\ClassAndMethodsExample1.cs" />
     <Compile Include="Practice1\DataTypeConversion.cs" />
     <Compile Include="Practice1\Variables.cs" />
+    <Compile Include="Practice2\Array\ArrayExample.cs" />
+    <Compile Include="Practice2\List\ListExample.cs" />
     <Compile Include="Practice2\OOP\AbstractionExample\AbstractionExample.cs" />
     <Compile Include="Practice2\OOP\ClassExample\ClassExample.cs" />
     <Compile Include="Practice2\OOP\EncaptulationExample\AccountGetAndSetMethod.cs" />
@@ -62,6 +64,11 @@
     <Compile Include="Practice2\OOP\ObjectExample\ObjectExample.cs" />
     <Compile Include="Practice2\OOP\PolymorphismExample\OverloadingExample.cs" />
     <Compile Include="Practice2\OOP\PolymorphismExample\OverridingExample.cs" />
+    <Compile Include="Practice2\Unit4\AnonymousExample.cs" />
+    <Compile Include="Practice2\Unit4\DelegateExample\DelegateExample.cs" />
+    <Compile Include="Practice2\Unit4\DelegateExample\MultiCastDelegateExample\MultiCastDelegateExample.cs" />
+    <Compile Include="Practice2\Unit4\DelegateExample\MultipleDelegateExample\MultipleDelegateExample.cs" />
+    <Compile Include="Practice2\Unit4\DelegateExample\SingleCastDelegateExample\SingleCastDelegateExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
