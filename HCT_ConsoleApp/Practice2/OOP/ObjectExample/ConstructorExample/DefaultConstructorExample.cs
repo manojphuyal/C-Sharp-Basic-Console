@@ -10,6 +10,7 @@ namespace HCT_ConsoleApp.Practice2.OOP.ObjectExample.ConstructorExample
     {
         public void Demo()
         {
+
             Console.WriteLine("Example of Default Constructor");
         }
     }
@@ -24,3 +25,7 @@ namespace HCT_ConsoleApp.Practice2.OOP.ObjectExample.ConstructorExample
         }
     }
 }
+
+
+
+
