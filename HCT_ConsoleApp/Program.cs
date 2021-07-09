@@ -44,37 +44,6 @@ using System;
 
 namespace HCT_ConsoleApp.s
 {
-    public class DeconstructorExample
-    {
-        public string carModel;
-        public int carYear;
-        public DeconstructorExample(string carModel, int carYear)
-        {
-            this.carModel = carModel;
-            this.carYear = carYear;
-        }
-        public string GetModel()
-        {
-            return this.carModel;
-        }
-        public int GetYear()
-        {
-            return this.carYear;
-        }
-        ~DeconstructorExample()
-        {
-            Console.WriteLine("Deconstructor has been invoked!");
-        }
 
-    }
-    public class ProgramDeconstructorExample
-    {
-        public static void Main()
-        {
-            DeconstructorExample carObj = new DeconstructorExample("Fararoi", 2019);
-            Console.WriteLine(carObj.GetModel());
-            Console.WriteLine(carObj.GetYear());
 
-        }
-    }
 }

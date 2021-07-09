@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HCT_ConsoleApp.Practice2.OOP.PolymorphismExample
+namespace HCT_ConsoleApp.Practice2.OOP.PolymorphismExample.DynamicPolymorphism.MethodOverriding
 {
     class OverridingExample
     {

@@ -39,11 +39,12 @@ namespace HCT_ConsoleApp.Practice2.OOP.ObjectExample.DeconstructorExample
     }
     public class ProgramDeconstructorExample
     {
-        public static void MainParameterizeConstructor()
+        public static void MainProgramDeconstructor()
         {
             DeconstructorExample carObj = new DeconstructorExample("Fararoi", 2019);
             Console.WriteLine(carObj.GetModel());
             Console.WriteLine(carObj.GetYear());
+
         }
     }
 

@@ -46,11 +46,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Practice2\AbstractClassMember\AbstractClassMemberExample.cs" />
+    <Compile Include="Practice2\BaseClassMethod\BaseClassConstructorExample.cs" />
+    <Compile Include="Practice2\BaseClassMethod\BaseKeywordExample.cs" />
+    <Compile Include="Practice2\BaseClassMethod\BaseMethodExample.cs" />
+    <Compile Include="Practice2\Interface\InterfaceExample.cs" />
+    <Compile Include="Practice2\Interface\InterfaceImplementationExample.cs" />
+    <Compile Include="Practice2\OOP\InheritanceExample\Sealed\SealedClassExample.cs" />
+    <Compile Include="Practice2\OOP\InheritanceExample\Sealed\SealedMethodExample.cs" />
+    <Compile Include="Practice2\OOP\PolymorphismExample\StaticPolymorphism\MethodOverloading\OverrideVirtualExample.cs" />
+    <Compile Include="Practice2\PostfixPrefix\PostfixPrefixExample.cs" />
     <Compile Include="Practice1\ClassAndMethodsExample1.cs" />
     <Compile Include="Practice1\DataTypeConversion.cs" />
     <Compile Include="Practice1\Variables.cs" />
     <Compile Include="Practice2\Array\ArrayExample.cs" />
+    <Compile Include="Practice2\DynamicBinding\DynamicBindingExample.cs" />
+    <Compile Include="Practice2\Indexers\IndexersExample.cs" />
+    <Compile Include="Practice2\OOP\ObjectExample\ConstructorExample\StaticConstructorExample.cs" />
     <Compile Include="Practice2\OOP\ObjectExample\DeconstructorExample\DeconstructorExample.cs" />
+    <Compile Include="Practice2\OOP\PolymorphismExample\StaticPolymorphism\OperatorOverloading\OperatorOverloadingExample.cs" />
+    <Compile Include="Practice2\Properties\PropertiesGetSet.cs" />
     <Compile Include="Practice2\Statement\DoWhileLoopExample.cs" />
     <Compile Include="Practice2\Statement\IfElseConditionExample.cs" />
     <Compile Include="Practice2\List\ListExample.cs" />
@@ -65,10 +80,12 @@
     <Compile Include="Practice2\OOP\ObjectExample\ConstructorExample\ParameterizeConstructorExample.cs" />
     <Compile Include="Practice2\OOP\ObjectExample\ConstructorExample\UserDefineConstructorExample.cs" />
     <Compile Include="Practice2\OOP\ObjectExample\ObjectExample.cs" />
-    <Compile Include="Practice2\OOP\PolymorphismExample\OverloadingExample.cs" />
-    <Compile Include="Practice2\OOP\PolymorphismExample\OverridingExample.cs" />
+    <Compile Include="Practice2\OOP\PolymorphismExample\StaticPolymorphism\MethodOverloading\MethodOverloadingExample.cs" />
+    <Compile Include="Practice2\OOP\PolymorphismExample\DynamicPolymorphism\MethodOverriding\OverridingExample.cs" />
     <Compile Include="Practice2\Statement\SwitchStatementExample.cs" />
     <Compile Include="Practice2\Statement\WhileLoopExample.cs" />
+    <Compile Include="Practice2\StaticMembers\StaticClassExample.cs" />
+    <Compile Include="Practice2\TernaryConditionExample\TernaryConditionExample.cs" />
     <Compile Include="Practice2\ThisReferenceExample\ThisExample.cs" />
     <Compile Include="Practice2\ThisReferenceExample\ThisReferenceExample.cs" />
     <Compile Include="Practice2\Unit4\AnonymousExample.cs" />

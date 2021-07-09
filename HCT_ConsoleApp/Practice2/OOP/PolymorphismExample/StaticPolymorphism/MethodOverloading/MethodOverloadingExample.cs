@@ -1,9 +1,9 @@
 ﻿using System;
 
-namespace HCT_ConsoleApp.Practice2.OOP.PolymorphismExample
+namespace HCT_ConsoleApp.Practice2.OOP.PolymorphismExample.StaticPolymorphism.MethodOverloading
 {
     //Polymorphism:1. Overloading
-    public class OverloadingExample
+    public class MethodOverloadingExample
     {
        public double result;
        public void Sum()
@@ -27,7 +27,7 @@ namespace HCT_ConsoleApp.Practice2.OOP.PolymorphismExample
     {
         static void MainOverloading()
         {
-            OverloadingExample obj = new OverloadingExample();
+            MethodOverloadingExample obj = new MethodOverloadingExample();
             obj.Sum();
             obj.Sum(5);
             obj.Sum(5, 7);
