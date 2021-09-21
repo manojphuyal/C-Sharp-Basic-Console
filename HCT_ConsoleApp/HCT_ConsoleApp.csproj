@@ -50,6 +50,11 @@
     <Compile Include="Practice2\BaseClassMethod\BaseClassConstructorExample.cs" />
     <Compile Include="Practice2\BaseClassMethod\BaseKeywordExample.cs" />
     <Compile Include="Practice2\BaseClassMethod\BaseMethodExample.cs" />
+    <Compile Include="Practice2\Dictionary\DictionaryExample.cs" />
+    <Compile Include="Practice2\EnumsExample\EnumExample.cs" />
+    <Compile Include="Practice2\Generics\ArrayList\ArrayListExample.cs" />
+    <Compile Include="Practice2\Generics\CollectionExample\ClassCollectionExample.cs" />
+    <Compile Include="Practice2\Generics\CollectionExample\MethodCollectionExample.cs" />
     <Compile Include="Practice2\Interface\InterfaceExample.cs" />
     <Compile Include="Practice2\Interface\InterfaceImplementationExample.cs" />
     <Compile Include="Practice2\OOP\InheritanceExample\Sealed\SealedClassExample.cs" />
@@ -66,9 +71,11 @@
     <Compile Include="Practice2\OOP\ObjectExample\DeconstructorExample\DeconstructorExample.cs" />
     <Compile Include="Practice2\OOP\PolymorphismExample\StaticPolymorphism\OperatorOverloading\OperatorOverloadingExample.cs" />
     <Compile Include="Practice2\Properties\PropertiesGetSet.cs" />
+    <Compile Include="Practice2\Generics\Queues\QueueExample.cs" />
+    <Compile Include="Practice2\Generics\Stacks\StacksExample.cs" />
     <Compile Include="Practice2\Statement\DoWhileLoopExample.cs" />
     <Compile Include="Practice2\Statement\IfElseConditionExample.cs" />
-    <Compile Include="Practice2\List\ListExample.cs" />
+    <Compile Include="Practice2\Generics\List\ListExample.cs" />
     <Compile Include="Practice2\OOP\AbstractionExample\AbstractionExample.cs" />
     <Compile Include="Practice2\OOP\ClassExample\ClassExample.cs" />
     <Compile Include="Practice2\OOP\EncaptulationExample\AccountGetAndSetMethod.cs" />
@@ -85,14 +92,18 @@
     <Compile Include="Practice2\Statement\SwitchStatementExample.cs" />
     <Compile Include="Practice2\Statement\WhileLoopExample.cs" />
     <Compile Include="Practice2\StaticMembers\StaticClassExample.cs" />
+    <Compile Include="Practice2\Struct\StructExample.cs" />
     <Compile Include="Practice2\TernaryConditionExample\TernaryConditionExample.cs" />
     <Compile Include="Practice2\ThisReferenceExample\ThisExample.cs" />
     <Compile Include="Practice2\ThisReferenceExample\ThisReferenceExample.cs" />
+    <Compile Include="Practice2\TypeofAndGetType\TypeofAndGetTypeExample.cs" />
     <Compile Include="Practice2\Unit4\AnonymousExample.cs" />
     <Compile Include="Practice2\Unit4\DelegateExample\DelegateExample.cs" />
     <Compile Include="Practice2\Unit4\DelegateExample\MultiCastDelegateExample\MultiCastDelegateExample.cs" />
     <Compile Include="Practice2\Unit4\DelegateExample\MultipleDelegateExample\MultipleDelegateExample.cs" />
     <Compile Include="Practice2\Unit4\DelegateExample\SingleCastDelegateExample\SingleCastDelegateExample.cs" />
+    <Compile Include="Practice2\ValueTypeAndReferenceType\BoxingExample.cs" />
+    <Compile Include="Practice2\ValueTypeAndReferenceType\UnboxingExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
